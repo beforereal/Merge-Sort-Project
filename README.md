@@ -1,1 +1,3 @@
-Merge Sort Project
+
+
+## Steps Of Merge Sort of an example Array
